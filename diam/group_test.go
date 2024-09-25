@@ -9,9 +9,9 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/fiorix/go-diameter/v4/diam/avp"
-	"github.com/fiorix/go-diameter/v4/diam/datatype"
-	"github.com/fiorix/go-diameter/v4/diam/dict"
+	"github.com/zlatkoasenov/go-diameter/v4/diam/avp"
+	"github.com/zlatkoasenov/go-diameter/v4/diam/datatype"
+	"github.com/zlatkoasenov/go-diameter/v4/diam/dict"
 )
 
 // testGroupedAVP is a Vendor-Specific-Application-Id Grouped AVP.
